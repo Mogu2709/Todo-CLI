@@ -14,4 +14,4 @@ Dibuat sebagai latihan belajar Python dasar.
 
 ## Cara Menjalankan
 
-python todo.py (tergantung kalian menggunakan apa python dimana)
+python todo.py
